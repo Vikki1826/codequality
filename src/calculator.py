@@ -1,5 +1,6 @@
 """
 A simple calculator module demonstrating basic arithmetic operations.
+
 This module is designed for CI/CD pipeline demonstration with code quality tools.
 """
 
