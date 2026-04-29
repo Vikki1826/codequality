@@ -1,0 +1,11 @@
+# Testing
+pytest==8.1.1
+pytest-cov==5.0.0
+
+# Code Quality
+flake8==7.0.0
+pylint==3.1.0
+
+# Optional: Additional flake8 plugins
+flake8-docstrings==1.7.0
+flake8-bugbear==24.2.6
