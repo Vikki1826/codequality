@@ -1,5 +1,6 @@
 """
 Unit tests for the Calculator class.
+
 Uses pytest framework for testing.
 """
 
